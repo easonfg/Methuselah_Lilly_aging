@@ -1,0 +1,8 @@
+read.csv('figures/prediction/methuselah.argo/bridged/include.capped/res.table.csv')
+read.csv('../aging prediction scaled/figures/prediction/methuselah.argo/bridged/include.capped/res.table.csv')
+
+read.csv('figures/prediction/basel.whole.training/res.table.csv')
+read.csv('../aging prediction scaled/figures/prediction/basel.whole.training/res.table.csv')
+
+read.csv('figures/prediction/lmu.whole.training/Serum/res.table.csv')
+read.csv('../aging prediction scaled/figures/prediction/lmu.whole.training/Serum/res.table.csv')

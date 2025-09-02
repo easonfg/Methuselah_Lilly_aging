@@ -1,0 +1,27 @@
+{
+    "id": "3927A6EF",
+    "path": "~/Desktop/aging prediction/aging attempt 1/scripts/02.05.plot.coeff.R",
+    "project_path": "scripts/02.05.plot.coeff.R",
+    "type": "r_source",
+    "hash": "548992941",
+    "contents": "",
+    "dirty": false,
+    "created": 1756705986595.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "87,0",
+        "scrollLine": "61",
+        "marks": "<:129,0\n>:129,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756743498,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756743498288,
+    "read_only": false,
+    "read_only_alternatives": []
+}

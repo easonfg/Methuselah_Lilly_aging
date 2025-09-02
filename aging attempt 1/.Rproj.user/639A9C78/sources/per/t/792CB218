@@ -1,0 +1,27 @@
+{
+    "id": "792CB218",
+    "path": "~/Desktop/aging prediction/aging attempt 1/scripts/03.03.basel.predict.whole.training.R",
+    "project_path": "scripts/03.03.basel.predict.whole.training.R",
+    "type": "r_source",
+    "hash": "1608171141",
+    "contents": "",
+    "dirty": false,
+    "created": 1756713108172.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "marks": "<:173,10\n>:173,19",
+        "cursorPosition": "169,45",
+        "scrollLine": "157"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756714155,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756714155866,
+    "read_only": false,
+    "read_only_alternatives": []
+}

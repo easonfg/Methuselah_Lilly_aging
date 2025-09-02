@@ -1,0 +1,504 @@
+﻿SampleName,SampleType,PlateID,BoASampleID,Sex,Race,Ethnicity,Age,Age2
+A_01_BoA_Plasma_P1,Sample,Plate_01,P1,M,Black,Non_Hispanic,77,77
+B_02_BoA_Plasma_P10,Sample,Plate_01,P10,F,Other,Non_Hispanic,54,54
+F_02_BoA_Plasma_P100,Sample,Plate_02,P100,M,White_Hispanic,Hispanic,39,39
+G_02_BoA_Plasma_P101,Sample,Plate_02,P101,F,White,Non_Hispanic,60,60
+H_02_BoA_Plasma_P102,Sample,Plate_02,P102,M,White_Hispanic,Hispanic,38,38
+A_03_BoA_Plasma_P103,Sample,Plate_02,P103,M,White,Non_Hispanic,61,61
+B_03_BoA_Plasma_P104,Sample,Plate_02,P104,M,Black,Non_Hispanic,71,71
+C_03_BoA_Plasma_P105,Sample,Plate_02,P105,F,Black,Non_Hispanic,80,80
+D_03_BoA_Plasma_P106,Sample,Plate_02,P106,F,White_Hispanic,Hispanic,86,86
+E_03_BoA_Plasma_P107,Sample,Plate_02,P107,M,White_Hispanic,Hispanic,71,71
+F_03_BoA_Plasma_P108,Sample,Plate_02,P108,M,White,Non_Hispanic,29,29
+G_03_BoA_Plasma_P109,Sample,Plate_02,P109,M,White,Non_Hispanic,51,51
+C_02_BoA_Plasma_P11,Sample,Plate_01,P11,F,White,Non_Hispanic,42,42
+H_03_BoA_Plasma_P110,Sample,Plate_02,P110,F,Other,Non_Hispanic,60,60
+A_04_BoA_Plasma_P111,Sample,Plate_02,P111,F,White,Non_Hispanic,25,25
+B_04_BoA_Plasma_P112,Sample,Plate_02,P112,F,White,Non_Hispanic,24,24
+C_04_BoA_Plasma_P113,Sample,Plate_02,P113,M,White,Non_Hispanic,68,68
+D_04_BoA_Plasma_P114,Sample,Plate_02,P114,M,White,Non_Hispanic,51,51
+E_04_BoA_Plasma_P115,Sample,Plate_02,P115,M,Black,Non_Hispanic,34,34
+F_04_BoA_Plasma_P116,Sample,Plate_02,P116,F,Black,Non_Hispanic,61,61
+G_04_BoA_Plasma_P117,Sample,Plate_02,P117,F,White_Hispanic,Hispanic,72,72
+H_04_BoA_Plasma_P118,Sample,Plate_02,P118,M,Black,Non_Hispanic,46,46
+A_05_BoA_Plasma_P119,Sample,Plate_02,P119,M,White,Non_Hispanic,83,83
+D_02_BoA_Plasma_P12,Sample,Plate_01,P12,M,White,Non_Hispanic,67,67
+B_05_BoA_Plasma_P120,Sample,Plate_02,P120,F,White_Hispanic,Hispanic,46,46
+C_05_BoA_Plasma_P121,Sample,Plate_02,P121,M,White_Hispanic,Hispanic,61,61
+D_05_BoA_Plasma_P122,Sample,Plate_02,P122,M,White,Non_Hispanic,81,81
+E_05_BoA_Plasma_P123,Sample,Plate_02,P123,M,White,Non_Hispanic,38,38
+F_05_BoA_Plasma_P124,Sample,Plate_02,P124,M,White,Non_Hispanic,32,32
+G_05_BoA_Plasma_P125,Sample,Plate_02,P125,F,White,Non_Hispanic,84,84
+H_05_BoA_Plasma_P126,Sample,Plate_02,P126,F,White,Non_Hispanic,54,54
+A_06_BoA_Plasma_P127,Sample,Plate_02,P127,F,White,Non_Hispanic,50,50
+B_06_BoA_Plasma_P128,Sample,Plate_02,P128,F,White,Non_Hispanic,47,47
+C_06_BoA_Plasma_P129,Sample,Plate_02,P129,F,White_Hispanic,Hispanic,62,62
+E_02_BoA_Plasma_P13,Sample,Plate_01,P13,M,White,Non_Hispanic,87,87
+D_06_BoA_Plasma_P130,Sample,Plate_02,P130,F,White,Non_Hispanic,57,57
+E_06_BoA_Plasma_P131,Sample,Plate_02,P131,M,White,Non_Hispanic,65,65
+F_06_BoA_Plasma_P132,Sample,Plate_02,P132,F,Black,Non_Hispanic,>89,90
+G_06_BoA_Plasma_P133,Sample,Plate_02,P133,F,Asian,Non_Hispanic,87,87
+H_06_BoA_Plasma_P134,Sample,Plate_02,P134,M,White,Non_Hispanic,56,56
+A_07_BoA_Plasma_P135,Sample,Plate_02,P135,F,White,Non_Hispanic,71,71
+B_07_BoA_Plasma_P136,Sample,Plate_02,P136,F,Asian,Non_Hispanic,58,58
+C_07_BoA_Plasma_P137,Sample,Plate_02,P137,F,White,Non_Hispanic,>89,90
+D_07_BoA_Plasma_P138,Sample,Plate_02,P138,F,Black,Non_Hispanic,74,74
+E_07_BoA_Plasma_P139,Sample,Plate_02,P139,M,White,Non_Hispanic,53,53
+F_02_BoA_Plasma_P14,Sample,Plate_01,P14,M,White,Non_Hispanic,>89,90
+F_07_BoA_Plasma_P140,Sample,Plate_02,P140,F,White,Non_Hispanic,58,58
+G_07_BoA_Plasma_P141,Sample,Plate_02,P141,M,White,Non_Hispanic,88,88
+H_07_BoA_Plasma_P142,Sample,Plate_02,P142,F,White,Non_Hispanic,33,33
+A_08_BoA_Plasma_P143,Sample,Plate_02,P143,F,White,Non_Hispanic,66,66
+B_08_BoA_Plasma_P144,Sample,Plate_02,P144,M,White,Non_Hispanic,27,27
+C_08_BoA_Plasma_P145,Sample,Plate_02,P145,M,White,Non_Hispanic,35,35
+D_08_BoA_Plasma_P146,Sample,Plate_02,P146,F,White,Non_Hispanic,>89,90
+E_08_BoA_Plasma_P147,Sample,Plate_02,P147,F,White,Non_Hispanic,24,24
+F_08_BoA_Plasma_P148,Sample,Plate_02,P148,M,White,Non_Hispanic,72,72
+G_08_BoA_Plasma_P149,Sample,Plate_02,P149,M,Black,Non_Hispanic,50,50
+G_02_BoA_Plasma_P15,Sample,Plate_01,P15,F,Asian,Non_Hispanic,63,63
+H_08_BoA_Plasma_P150,Sample,Plate_02,P150,M,White,Non_Hispanic,80,80
+A_09_BoA_Plasma_P151,Sample,Plate_02,P151,M,White_Hispanic,Hispanic,82,82
+B_09_BoA_Plasma_P152,Sample,Plate_02,P152,M,White,Non_Hispanic,59,59
+C_09_BoA_Plasma_P153,Sample,Plate_02,P153,M,White_Hispanic,Hispanic,54,54
+D_09_BoA_Plasma_P154,Sample,Plate_02,P154,M,White,Non_Hispanic,88,88
+E_09_BoA_Plasma_P155,Sample,Plate_02,P155,M,White_Hispanic,Hispanic,40,40
+F_09_BoA_Plasma_P156,Sample,Plate_02,P156,F,White_Hispanic,Hispanic,34,34
+G_09_BoA_Plasma_P157,Sample,Plate_02,P157,M,White_Hispanic,Hispanic,65,65
+H_09_BoA_Plasma_P158,Sample,Plate_02,P158,F,White_Hispanic,Hispanic,86,86
+A_10_BoA_Plasma_P159,Sample,Plate_02,P159,M,Black,Non_Hispanic,61,61
+H_02_BoA_Plasma_P16,Sample,Plate_01,P16,F,White,Non_Hispanic,46,46
+B_10_BoA_Plasma_P160,Sample,Plate_02,P160,F,White,Non_Hispanic,41,41
+C_10_BoA_Plasma_P161,Sample,Plate_02,P161,F,White,Non_Hispanic,36,36
+D_10_BoA_Plasma_P162,Sample,Plate_02,P162,M,White_Hispanic,Hispanic,85,85
+E_10_BoA_Plasma_P163,Sample,Plate_02,P163,M,Black,Non_Hispanic,52,52
+F_10_BoA_Plasma_P164,Sample,Plate_02,P164,F,White,Non_Hispanic,38,38
+G_10_BoA_Plasma_P165,Sample,Plate_02,P165,M,White,Non_Hispanic,35,35
+H_10_BoA_Plasma_P166,Sample,Plate_02,P166,F,Asian,Non_Hispanic,69,69
+A_11_BoA_Plasma_P167,Sample,Plate_02,P167,F,White,Non_Hispanic,42,42
+B_11_BoA_Plasma_P168,Sample,Plate_02,P168,M,White,Non_Hispanic,77,77
+C_11_BoA_Plasma_P169,Sample,Plate_02,P169,M,Other,Non_Hispanic,>89,90
+A_03_BoA_Plasma_P17,Sample,Plate_01,P17,F,White,Non_Hispanic,58,58
+D_11_BoA_Plasma_P170,Sample,Plate_02,P170,F,White,Non_Hispanic,83,83
+E_11_BoA_Plasma_P171,Sample,Plate_02,P171,M,Asian,Non_Hispanic,39,39
+F_11_BoA_Plasma_P172,Sample,Plate_02,P172,F,White_Hispanic,Hispanic,26,26
+A_01_BoA_Plasma_P173,Sample,Plate_03,P173,F,White_Hispanic,Hispanic,52,52
+B_01_BoA_Plasma_P174,Sample,Plate_03,P174,M,White,Non_Hispanic,88,88
+C_01_BoA_Plasma_P175,Sample,Plate_03,P175,F,White_Hispanic,Hispanic,47,47
+D_01_BoA_Plasma_P176,Sample,Plate_03,P176,F,White,Non_Hispanic,50,50
+E_01_BoA_Plasma_P177,Sample,Plate_03,P177,F,White_Hispanic,Hispanic,64,64
+F_01_BoA_Plasma_P178,Sample,Plate_03,P178,F,White,Non_Hispanic,34,34
+G_01_BoA_Plasma_P179,Sample,Plate_03,P179,M,White,Non_Hispanic,35,35
+B_03_BoA_Plasma_P18,Sample,Plate_01,P18,M,White_Hispanic,Hispanic,82,82
+H_01_BoA_Plasma_P180,Sample,Plate_03,P180,F,White_Hispanic,Hispanic,64,64
+A_02_BoA_Plasma_P181,Sample,Plate_03,P181,F,White_Hispanic,Hispanic,55,55
+B_02_BoA_Plasma_P182,Sample,Plate_03,P182,F,White_Hispanic,Hispanic,53,53
+C_02_BoA_Plasma_P183,Sample,Plate_03,P183,F,Asian,Non_Hispanic,32,32
+D_02_BoA_Plasma_P184,Sample,Plate_03,P184,M,White,Non_Hispanic,26,26
+E_02_BoA_Plasma_P185,Sample,Plate_03,P185,M,White,Non_Hispanic,22,22
+F_02_BoA_Plasma_P186,Sample,Plate_03,P186,M,White,Non_Hispanic,76,76
+G_02_BoA_Plasma_P187,Sample,Plate_03,P187,M,White,Non_Hispanic,83,83
+H_02_BoA_Plasma_P188,Sample,Plate_03,P188,F,Black,Non_Hispanic,87,87
+A_03_BoA_Plasma_P189,Sample,Plate_03,P189,F,White_Hispanic,Hispanic,78,78
+C_03_BoA_Plasma_P19,Sample,Plate_01,P19,M,White,Non_Hispanic,82,82
+B_03_BoA_Plasma_P190,Sample,Plate_03,P190,F,White,Non_Hispanic,45,45
+C_03_BoA_Plasma_P191,Sample,Plate_03,P191,M,White,Non_Hispanic,85,85
+D_03_BoA_Plasma_P192,Sample,Plate_03,P192,M,White,Non_Hispanic,25,25
+E_03_BoA_Plasma_P193,Sample,Plate_03,P193,M,White,Non_Hispanic,66,66
+F_03_BoA_Plasma_P194,Sample,Plate_03,P194,F,White_Hispanic,Hispanic,>89,90
+G_03_BoA_Plasma_P195,Sample,Plate_03,P195,M,White_Hispanic,Hispanic,24,24
+H_03_BoA_Plasma_P196,Sample,Plate_03,P196,F,White,Non_Hispanic,54,54
+A_04_BoA_Plasma_P197,Sample,Plate_03,P197,F,White,Non_Hispanic,75,75
+B_04_BoA_Plasma_P198,Sample,Plate_03,P198,F,White_Hispanic,Hispanic,37,37
+C_04_BoA_Plasma_P199,Sample,Plate_03,P199,F,White_Hispanic,Hispanic,29,29
+B_01_BoA_Plasma_P2,Sample,Plate_01,P2,M,White,Non_Hispanic,>89,90
+D_03_BoA_Plasma_P20,Sample,Plate_01,P20,F,White,Non_Hispanic,34,34
+D_04_BoA_Plasma_P200,Sample,Plate_03,P200,F,White_Hispanic,Hispanic,23,23
+E_04_BoA_Plasma_P201,Sample,Plate_03,P201,F,White,Non_Hispanic,80,80
+F_04_BoA_Plasma_P202,Sample,Plate_03,P202,F,White_Hispanic,Hispanic,24,24
+G_04_BoA_Plasma_P203,Sample,Plate_03,P203,F,White_Hispanic,Hispanic,32,32
+H_04_BoA_Plasma_P204,Sample,Plate_03,P204,F,White,Non_Hispanic,>89,90
+A_05_BoA_Plasma_P205,Sample,Plate_03,P205,F,White,Non_Hispanic,71,71
+B_05_BoA_Plasma_P206,Sample,Plate_03,P206,M,White_Hispanic,Hispanic,82,82
+C_05_BoA_Plasma_P207,Sample,Plate_03,P207,F,White_Hispanic,Hispanic,70,70
+D_05_BoA_Plasma_P208,Sample,Plate_03,P208,M,White,Non_Hispanic,74,74
+E_05_BoA_Plasma_P209,Sample,Plate_03,P209,M,White,Non_Hispanic,29,29
+E_03_BoA_Plasma_P21,Sample,Plate_01,P21,M,White_Hispanic,Hispanic,34,34
+F_05_BoA_Plasma_P210,Sample,Plate_03,P210,M,White,Non_Hispanic,23,23
+G_05_BoA_Plasma_P211,Sample,Plate_03,P211,M,White,Non_Hispanic,66,66
+H_05_BoA_Plasma_P212,Sample,Plate_03,P212,M,White,Non_Hispanic,60,60
+A_06_BoA_Plasma_P213,Sample,Plate_03,P213,F,White,Non_Hispanic,35,35
+B_06_BoA_Plasma_P214,Sample,Plate_03,P214,F,White,Non_Hispanic,47,47
+C_06_BoA_Plasma_P215,Sample,Plate_03,P215,M,White_Hispanic,Hispanic,87,87
+D_06_BoA_Plasma_P216,Sample,Plate_03,P216,M,White,Non_Hispanic,63,63
+E_06_BoA_Plasma_P217,Sample,Plate_03,P217,M,Black,Non_Hispanic,>89,90
+F_06_BoA_Plasma_P218,Sample,Plate_03,P218,M,Asian,Non_Hispanic,86,86
+G_06_BoA_Plasma_P219,Sample,Plate_03,P219,M,White,Non_Hispanic,60,60
+F_03_BoA_Plasma_P22,Sample,Plate_01,P22,M,White,Non_Hispanic,57,57
+H_06_BoA_Plasma_P220,Sample,Plate_03,P220,M,White_Hispanic,Hispanic,51,51
+A_07_BoA_Plasma_P221,Sample,Plate_03,P221,M,White,Non_Hispanic,>89,90
+B_07_BoA_Plasma_P222,Sample,Plate_03,P222,M,White,Non_Hispanic,>89,90
+C_07_BoA_Plasma_P223,Sample,Plate_03,P223,F,White,Non_Hispanic,49,49
+D_07_BoA_Plasma_P224,Sample,Plate_03,P224,M,White,Non_Hispanic,73,73
+E_07_BoA_Plasma_P225,Sample,Plate_03,P225,M,White,Non_Hispanic,22,22
+F_07_BoA_Plasma_P226,Sample,Plate_03,P226,F,Other,Non_Hispanic,32,32
+G_07_BoA_Plasma_P227,Sample,Plate_03,P227,F,White,Non_Hispanic,25,25
+H_07_BoA_Plasma_P228,Sample,Plate_03,P228,F,Black,Non_Hispanic,29,29
+A_08_BoA_Plasma_P229,Sample,Plate_03,P229,F,White,Non_Hispanic,71,71
+G_03_BoA_Plasma_P23,Sample,Plate_01,P23,M,White_Hispanic,Hispanic,84,84
+B_08_BoA_Plasma_P230,Sample,Plate_03,P230,M,White,Non_Hispanic,57,57
+C_08_BoA_Plasma_P231,Sample,Plate_03,P231,M,White,Non_Hispanic,66,66
+D_08_BoA_Plasma_P232,Sample,Plate_03,P232,M,Black,Non_Hispanic,89,89
+E_08_BoA_Plasma_P233,Sample,Plate_03,P233,F,White,Non_Hispanic,27,27
+F_08_BoA_Plasma_P234,Sample,Plate_03,P234,F,White,Non_Hispanic,82,82
+G_08_BoA_Plasma_P235,Sample,Plate_03,P235,F,White,Non_Hispanic,71,71
+H_08_BoA_Plasma_P236,Sample,Plate_03,P236,F,White,Non_Hispanic,79,79
+A_09_BoA_Plasma_P237,Sample,Plate_03,P237,F,White,Non_Hispanic,47,47
+B_09_BoA_Plasma_P238,Sample,Plate_03,P238,F,Asian,Non_Hispanic,81,81
+C_09_BoA_Plasma_P239,Sample,Plate_03,P239,F,White,Non_Hispanic,42,42
+H_03_BoA_Plasma_P24,Sample,Plate_01,P24,M,White,Non_Hispanic,31,31
+D_09_BoA_Plasma_P240,Sample,Plate_03,P240,F,White,Non_Hispanic,24,24
+E_09_BoA_Plasma_P241,Sample,Plate_03,P241,M,Black,Non_Hispanic,62,62
+F_09_BoA_Plasma_P242,Sample,Plate_03,P242,F,White_Hispanic,Hispanic,60,60
+G_09_BoA_Plasma_P243,Sample,Plate_03,P243,M,White,Non_Hispanic,49,49
+H_09_BoA_Plasma_P244,Sample,Plate_03,P244,M,White,Non_Hispanic,52,52
+A_10_BoA_Plasma_P245,Sample,Plate_03,P245,F,White,Non_Hispanic,66,66
+B_10_BoA_Plasma_P246,Sample,Plate_03,P246,M,White_Hispanic,Hispanic,>89,90
+C_10_BoA_Plasma_P247,Sample,Plate_03,P247,F,White,Non_Hispanic,70,70
+D_10_BoA_Plasma_P248,Sample,Plate_03,P248,F,White,Non_Hispanic,80,80
+E_10_BoA_Plasma_P249,Sample,Plate_03,P249,F,Black,Non_Hispanic,52,52
+A_04_BoA_Plasma_P25,Sample,Plate_01,P25,F,White,Non_Hispanic,74,74
+F_10_BoA_Plasma_P250,Sample,Plate_03,P250,F,White,Non_Hispanic,76,76
+G_10_BoA_Plasma_P251,Sample,Plate_03,P251,F,White,Non_Hispanic,38,38
+H_10_BoA_Plasma_P252,Sample,Plate_03,P252,M,White,Non_Hispanic,35,35
+A_11_BoA_Plasma_P253,Sample,Plate_03,P253,F,White,Non_Hispanic,23,23
+B_11_BoA_Plasma_P254,Sample,Plate_03,P254,F,White,Non_Hispanic,24,24
+C_11_BoA_Plasma_P255,Sample,Plate_03,P255,M,White,Non_Hispanic,84,84
+D_11_BoA_Plasma_P256,Sample,Plate_03,P256,M,Black,Non_Hispanic,23,23
+E_11_BoA_Plasma_P257,Sample,Plate_03,P257,F,White,Non_Hispanic,24,24
+F_11_BoA_Plasma_P258,Sample,Plate_03,P258,F,White,Non_Hispanic,76,76
+A_01_BoA_Plasma_P259,Sample,Plate_04,P259,F,White,Non_Hispanic,69,69
+B_04_BoA_Plasma_P26,Sample,Plate_01,P26,M,White,Non_Hispanic,76,76
+B_01_BoA_Plasma_P260,Sample,Plate_04,P260,F,White,Non_Hispanic,77,77
+C_01_BoA_Plasma_P261,Sample,Plate_04,P261,F,White,Non_Hispanic,49,49
+D_01_BoA_Plasma_P262,Sample,Plate_04,P262,M,Black,Non_Hispanic,72,72
+E_01_BoA_Plasma_P263,Sample,Plate_04,P263,F,White_Hispanic,Hispanic,41,41
+F_01_BoA_Plasma_P264,Sample,Plate_04,P264,F,White_Hispanic,Hispanic,43,43
+G_01_BoA_Plasma_P265,Sample,Plate_04,P265,M,White_Hispanic,Hispanic,45,45
+H_01_BoA_Plasma_P266,Sample,Plate_04,P266,F,White,Non_Hispanic,31,31
+A_02_BoA_Plasma_P267,Sample,Plate_04,P267,M,Other,Non_Hispanic,40,40
+B_02_BoA_Plasma_P268,Sample,Plate_04,P268,F,White_Hispanic,Hispanic,36,36
+C_02_BoA_Plasma_P269,Sample,Plate_04,P269,F,White_Hispanic,Hispanic,32,32
+C_04_BoA_Plasma_P27,Sample,Plate_01,P27,F,Black,Non_Hispanic,56,56
+D_02_BoA_Plasma_P270,Sample,Plate_04,P270,M,White_Hispanic,Hispanic,48,48
+E_02_BoA_Plasma_P271,Sample,Plate_04,P271,F,White,Non_Hispanic,42,42
+F_02_BoA_Plasma_P272,Sample,Plate_04,P272,M,White,Non_Hispanic,29,29
+G_02_BoA_Plasma_P273,Sample,Plate_04,P273,M,White,Non_Hispanic,81,81
+H_02_BoA_Plasma_P274,Sample,Plate_04,P274,M,White,Non_Hispanic,61,61
+A_03_BoA_Plasma_P275,Sample,Plate_04,P275,F,White,Non_Hispanic,51,51
+B_03_BoA_Plasma_P276,Sample,Plate_04,P276,M,White,Non_Hispanic,76,76
+C_03_BoA_Plasma_P277,Sample,Plate_04,P277,M,Black,Non_Hispanic,81,81
+D_03_BoA_Plasma_P278,Sample,Plate_04,P278,F,White,Non_Hispanic,34,34
+E_03_BoA_Plasma_P279,Sample,Plate_04,P279,M,White,Non_Hispanic,78,78
+D_04_BoA_Plasma_P28,Sample,Plate_01,P28,M,Black,Non_Hispanic,72,72
+F_03_BoA_Plasma_P280,Sample,Plate_04,P280,F,White,Non_Hispanic,30,30
+G_03_BoA_Plasma_P281,Sample,Plate_04,P281,M,White,Non_Hispanic,76,76
+H_03_BoA_Plasma_P282,Sample,Plate_04,P282,F,White,Non_Hispanic,44,44
+A_04_BoA_Plasma_P283,Sample,Plate_04,P283,F,Black,Non_Hispanic,43,43
+B_04_BoA_Plasma_P284,Sample,Plate_04,P284,M,Other,Non_Hispanic,64,64
+C_04_BoA_Plasma_P285,Sample,Plate_04,P285,M,Asian,Non_Hispanic,63,63
+D_04_BoA_Plasma_P286,Sample,Plate_04,P286,M,White,Non_Hispanic,26,26
+E_04_BoA_Plasma_P287,Sample,Plate_04,P287,F,Black,Non_Hispanic,76,76
+F_04_BoA_Plasma_P288,Sample,Plate_04,P288,F,White_Hispanic,Hispanic,52,52
+G_04_BoA_Plasma_P289,Sample,Plate_04,P289,F,White_Hispanic,Hispanic,42,42
+E_04_BoA_Plasma_P29,Sample,Plate_01,P29,F,Black,Non_Hispanic,48,48
+H_04_BoA_Plasma_P290,Sample,Plate_04,P290,F,White,Non_Hispanic,35,35
+A_05_BoA_Plasma_P291,Sample,Plate_04,P291,F,White_Hispanic,Hispanic,29,29
+B_05_BoA_Plasma_P292,Sample,Plate_04,P292,M,White,Non_Hispanic,69,69
+C_05_BoA_Plasma_P293,Sample,Plate_04,P293,M,White_Hispanic,Hispanic,75,75
+D_05_BoA_Plasma_P294,Sample,Plate_04,P294,F,White_Hispanic,Hispanic,24,24
+E_05_BoA_Plasma_P295,Sample,Plate_04,P295,M,Black,Non_Hispanic,29,29
+F_05_BoA_Plasma_P296,Sample,Plate_04,P296,F,White,Non_Hispanic,53,53
+G_05_BoA_Plasma_P297,Sample,Plate_04,P297,F,White,Non_Hispanic,25,25
+H_05_BoA_Plasma_P298,Sample,Plate_04,P298,F,White,Non_Hispanic,83,83
+A_06_BoA_Plasma_P299,Sample,Plate_04,P299,F,Other,Non_Hispanic,71,71
+C_01_BoA_Plasma_P3,Sample,Plate_01,P3,M,White,Non_Hispanic,>89,90
+F_04_BoA_Plasma_P30,Sample,Plate_01,P30,M,White,Non_Hispanic,72,72
+B_06_BoA_Plasma_P300,Sample,Plate_04,P300,F,White,Non_Hispanic,73,73
+C_06_BoA_Plasma_P301,Sample,Plate_04,P301,M,White_Hispanic,Hispanic,63,63
+D_06_BoA_Plasma_P302,Sample,Plate_04,P302,M,White,Non_Hispanic,29,29
+E_06_BoA_Plasma_P303,Sample,Plate_04,P303,M,White,Non_Hispanic,67,67
+F_06_BoA_Plasma_P304,Sample,Plate_04,P304,F,White_Hispanic,Hispanic,39,39
+G_06_BoA_Plasma_P305,Sample,Plate_04,P305,F,White_Hispanic,Hispanic,84,84
+H_06_BoA_Plasma_P306,Sample,Plate_04,P306,F,White,Non_Hispanic,33,33
+A_07_BoA_Plasma_P307,Sample,Plate_04,P307,M,White,Non_Hispanic,74,74
+B_07_BoA_Plasma_P308,Sample,Plate_04,P308,M,White_Hispanic,Hispanic,71,71
+C_07_BoA_Plasma_P309,Sample,Plate_04,P309,F,White,Non_Hispanic,41,41
+G_04_BoA_Plasma_P31,Sample,Plate_01,P31,M,White,Non_Hispanic,35,35
+D_07_BoA_Plasma_P310,Sample,Plate_04,P310,F,White,Non_Hispanic,41,41
+E_07_BoA_Plasma_P311,Sample,Plate_04,P311,F,Black,Non_Hispanic,46,46
+F_07_BoA_Plasma_P312,Sample,Plate_04,P312,F,Black,Non_Hispanic,29,29
+G_07_BoA_Plasma_P313,Sample,Plate_04,P313,M,White_Hispanic,Hispanic,24,24
+H_07_BoA_Plasma_P314,Sample,Plate_04,P314,F,White,Non_Hispanic,29,29
+A_08_BoA_Plasma_P315,Sample,Plate_04,P315,F,Asian,Non_Hispanic,28,28
+B_08_BoA_Plasma_P316,Sample,Plate_04,P316,M,White,Non_Hispanic,23,23
+C_08_BoA_Plasma_P317,Sample,Plate_04,P317,M,White,Non_Hispanic,30,30
+D_08_BoA_Plasma_P318,Sample,Plate_04,P318,M,Black,Non_Hispanic,35,35
+E_08_BoA_Plasma_P319,Sample,Plate_04,P319,M,White,Non_Hispanic,35,35
+H_04_BoA_Plasma_P32,Sample,Plate_01,P32,M,White_Hispanic,Hispanic,79,79
+F_08_BoA_Plasma_P320,Sample,Plate_04,P320,M,White,Non_Hispanic,33,33
+G_08_BoA_Plasma_P321,Sample,Plate_04,P321,M,White,Non_Hispanic,43,43
+H_08_BoA_Plasma_P322,Sample,Plate_04,P322,M,White,Non_Hispanic,21,21
+A_09_BoA_Plasma_P323,Sample,Plate_04,P323,F,Asian,Non_Hispanic,22,22
+B_09_BoA_Plasma_P324,Sample,Plate_04,P324,M,White,Non_Hispanic,34,34
+C_09_BoA_Plasma_P325,Sample,Plate_04,P325,M,White,Non_Hispanic,47,47
+D_09_BoA_Plasma_P326,Sample,Plate_04,P326,M,White,Non_Hispanic,59,59
+E_09_BoA_Plasma_P327,Sample,Plate_04,P327,M,White,Non_Hispanic,33,33
+F_09_BoA_Plasma_P328,Sample,Plate_04,P328,F,White,Non_Hispanic,22,22
+G_09_BoA_Plasma_P329,Sample,Plate_04,P329,F,Asian,Non_Hispanic,73,73
+A_05_BoA_Plasma_P33,Sample,Plate_01,P33,F,White,Non_Hispanic,59,59
+H_09_BoA_Plasma_P330,Sample,Plate_04,P330,M,White_Hispanic,Hispanic,83,83
+A_10_BoA_Plasma_P331,Sample,Plate_04,P331,M,White_Hispanic,Hispanic,79,79
+B_10_BoA_Plasma_P332,Sample,Plate_04,P332,F,White,Non_Hispanic,68,68
+C_10_BoA_Plasma_P333,Sample,Plate_04,P333,M,White,Non_Hispanic,>89,90
+D_10_BoA_Plasma_P334,Sample,Plate_04,P334,F,White_Hispanic,Hispanic,40,40
+E_10_BoA_Plasma_P335,Sample,Plate_04,P335,M,White,Non_Hispanic,51,51
+F_10_BoA_Plasma_P336,Sample,Plate_04,P336,M,White,Non_Hispanic,80,80
+G_10_BoA_Plasma_P337,Sample,Plate_04,P337,F,White_Hispanic,Hispanic,23,23
+H_10_BoA_Plasma_P338,Sample,Plate_04,P338,F,Other,Non_Hispanic,56,56
+A_11_BoA_Plasma_P339,Sample,Plate_04,P339,M,White_Hispanic,Hispanic,40,40
+B_05_BoA_Plasma_P34,Sample,Plate_01,P34,F,White,Non_Hispanic,25,25
+B_11_BoA_Plasma_P340,Sample,Plate_04,P340,M,White,Non_Hispanic,46,46
+C_11_BoA_Plasma_P341,Sample,Plate_04,P341,F,White,Non_Hispanic,87,87
+D_11_BoA_Plasma_P342,Sample,Plate_04,P342,M,White,Non_Hispanic,57,57
+E_11_BoA_Plasma_P343,Sample,Plate_04,P343,M,White,Non_Hispanic,58,58
+F_11_BoA_Plasma_P344,Sample,Plate_04,P344,F,Asian,Non_Hispanic,78,78
+A_01_BoA_Plasma_P345,Sample,Plate_05,P345,F,White,Non_Hispanic,65,65
+B_01_BoA_Plasma_P346,Sample,Plate_05,P346,M,White,Non_Hispanic,48,48
+C_01_BoA_Plasma_P347,Sample,Plate_05,P347,M,White,Non_Hispanic,88,88
+D_01_BoA_Plasma_P348,Sample,Plate_05,P348,M,White,Non_Hispanic,76,76
+E_01_BoA_Plasma_P349,Sample,Plate_05,P349,M,White_Hispanic,Hispanic,51,51
+C_05_BoA_Plasma_P35,Sample,Plate_01,P35,F,White,Non_Hispanic,26,26
+F_01_BoA_Plasma_P350,Sample,Plate_05,P350,F,White,Non_Hispanic,77,77
+G_01_BoA_Plasma_P351,Sample,Plate_05,P351,M,Asian,Non_Hispanic,45,45
+H_01_BoA_Plasma_P352,Sample,Plate_05,P352,F,White,Non_Hispanic,46,46
+A_02_BoA_Plasma_P353,Sample,Plate_05,P353,F,White,Non_Hispanic,32,32
+B_02_BoA_Plasma_P354,Sample,Plate_05,P354,F,White,Non_Hispanic,>89,90
+C_02_BoA_Plasma_P355,Sample,Plate_05,P355,M,White,Non Hispanic,40,40
+D_02_BoA_Plasma_P356,Sample,Plate_05,P356,M,White,Non_Hispanic,74,74
+E_02_BoA_Plasma_P357,Sample,Plate_05,P357,M,White,Non Hispanic,35,35
+F_02_BoA_Plasma_P358,Sample,Plate_05,P358,F,White,Non_Hispanic,>89,90
+G_02_BoA_Plasma_P359,Sample,Plate_05,P359,M,Black,Non_Hispanic,58,58
+D_05_BoA_Plasma_P36,Sample,Plate_01,P36,M,White_Hispanic,Hispanic,89,89
+H_02_BoA_Plasma_P360,Sample,Plate_05,P360,M,White,Non_Hispanic,>89,90
+A_03_BoA_Plasma_P361,Sample,Plate_05,P361,M,BLACKorAFRICANAMERICAN,Non Hispanic,59,59
+B_03_BoA_Plasma_P362,Sample,Plate_05,P362,F,White,Non Hispanic,25,25
+C_03_BoA_Plasma_P363,Sample,Plate_05,P363,M,White,Non Hispanic,76,76
+D_03_BoA_Plasma_P364,Sample,Plate_05,P364,M,White,Non Hispanic,38,38
+E_03_BoA_Plasma_P365,Sample,Plate_05,P365,F,White,Non_Hispanic,86,86
+F_03_BoA_Plasma_P366,Sample,Plate_05,P366,M,White,Non_Hispanic,56,56
+G_03_BoA_Plasma_P367,Sample,Plate_05,P367,M,White,Non Hispanic,>89,90
+H_03_BoA_Plasma_P368,Sample,Plate_05,P368,F,BLACKorAFRICANAMERICAN,HISPANIC,27,27
+A_04_BoA_Plasma_P369,Sample,Plate_05,P369,M,BLACKorAFRICANAMERICAN,Non Hispanic,87,87
+E_05_BoA_Plasma_P37,Sample,Plate_01,P37,F,White_Hispanic,Hispanic,79,79
+B_04_BoA_Plasma_P370,Sample,Plate_05,P370,M,White,Non_Hispanic,>89,90
+C_04_BoA_Plasma_P371,Sample,Plate_05,P371,M,BLACKorAFRICANAMERICAN,Non Hispanic,>89,90
+D_04_BoA_Plasma_P372,Sample,Plate_05,P372,M,White,Non_Hispanic,74,74
+E_04_BoA_Plasma_P373,Sample,Plate_05,P373,F,White,Non Hispanic,>89,90
+F_04_BoA_Plasma_P374,Sample,Plate_05,P374,M,White,Non Hispanic,82,82
+G_04_BoA_Plasma_P375,Sample,Plate_05,P375,M,White,Non_Hispanic,84,84
+H_04_BoA_Plasma_P376,Sample,Plate_05,P376,M,AMERICANINDIANorALASKANATIVE,Non Hispanic,77,77
+A_05_BoA_Plasma_P377,Sample,Plate_05,P377,M,White_Hispanic,Hispanic,73,73
+B_05_BoA_Plasma_P378,Sample,Plate_05,P378,M,White,Non_Hispanic,65,65
+C_05_BoA_Plasma_P379,Sample,Plate_05,P379,M,BLACKorAFRICANAMERICAN,Non Hispanic,28,28
+F_05_BoA_Plasma_P38,Sample,Plate_01,P38,F,White,Non_Hispanic,87,87
+D_05_BoA_Plasma_P380,Sample,Plate_05,P380,F,White,Non Hispanic,33,33
+E_05_BoA_Plasma_P381,Sample,Plate_05,P381,F,White,Non Hispanic,>89,90
+F_05_BoA_Plasma_P382,Sample,Plate_05,P382,F,Black,Non_Hispanic,66,66
+G_05_BoA_Plasma_P383,Sample,Plate_05,P383,M,White,Non_Hispanic,>89,90
+H_05_BoA_Plasma_P384,Sample,Plate_05,P384,F,White,Non Hispanic,>89,90
+A_06_BoA_Plasma_P385,Sample,Plate_05,P385,M,White,Non Hispanic,34,34
+B_06_BoA_Plasma_P386,Sample,Plate_05,P386,M,BLACKorAFRICANAMERICAN,Non Hispanic,>89,90
+C_06_BoA_Plasma_P387,Sample,Plate_05,P387,M,White,Non Hispanic,32,32
+D_06_BoA_Plasma_P388,Sample,Plate_05,P388,F,NATIVEHAWAIIANorOTHERPACIFICISLANDER@White,Non Hispanic,86,86
+E_06_BoA_Plasma_P389,Sample,Plate_05,P389,M,White,Non_Hispanic,88,88
+G_05_BoA_Plasma_P39,Sample,Plate_01,P39,F,White_Hispanic,Hispanic,82,82
+F_06_BoA_Plasma_P390,Sample,Plate_05,P390,M,White,Non Hispanic,39,39
+G_06_BoA_Plasma_P391,Sample,Plate_05,P391,M,White,Non Hispanic,25,25
+H_06_BoA_Plasma_P392,Sample,Plate_05,P392,F,BLACKorAFRICANAMERICAN,Non Hispanic,60,60
+A_07_BoA_Plasma_P393,Sample,Plate_05,P393,F,White,Non Hispanic,88,88
+B_07_BoA_Plasma_P394,Sample,Plate_05,P394,F,Asian,Non Hispanic,30,30
+C_07_BoA_Plasma_P395,Sample,Plate_05,P395,F,White,Non Hispanic,72,72
+D_07_BoA_Plasma_P396,Sample,Plate_05,P396,M,White,Non_Hispanic,23,23
+E_07_BoA_Plasma_P397,Sample,Plate_05,P397,M,BLACKorAFRICANAMERICAN,DECLINED,44,44
+F_07_BoA_Plasma_P398,Sample,Plate_05,P398,F,White_Hispanic,Hispanic,86,86
+G_07_BoA_Plasma_P399,Sample,Plate_05,P399,M,White,Non Hispanic,>89,90
+D_01_BoA_Plasma_P4,Sample,Plate_01,P4,F,White,Non_Hispanic,29,29
+H_05_BoA_Plasma_P40,Sample,Plate_01,P40,M,White,Non_Hispanic,70,70
+H_07_BoA_Plasma_P400,Sample,Plate_05,P400,F,White,Non Hispanic,>89,90
+A_08_BoA_Plasma_P401,Sample,Plate_05,P401,M,White_Hispanic,Hispanic,75,75
+B_08_BoA_Plasma_P402,Sample,Plate_05,P402,M,White,Non_Hispanic,85,85
+C_08_BoA_Plasma_P403,Sample,Plate_05,P403,M,White,Non Hispanic,69,69
+D_08_BoA_Plasma_P404,Sample,Plate_05,P404,F,White,Non Hispanic,>89,90
+E_08_BoA_Plasma_P405,Sample,Plate_05,P405,M,HISPANICorLATINO,Hispanic,64,64
+F_08_BoA_Plasma_P406,Sample,Plate_05,P406,F,White,Non_Hispanic,>89,90
+G_08_BoA_Plasma_P407,Sample,Plate_05,P407,F,White,Non Hispanic,>89,90
+H_08_BoA_Plasma_P408,Sample,Plate_05,P408,F,AMERICANINDIANorALASKANATIVE,Non Hispanic,72,72
+A_09_BoA_Plasma_P409,Sample,Plate_05,P409,M,White,Non Hispanic,30,30
+A_06_BoA_Plasma_P41,Sample,Plate_01,P41,M,Black,Non_Hispanic,39,39
+B_09_BoA_Plasma_P410,Sample,Plate_05,P410,F,White,Non Hispanic,21,21
+C_09_BoA_Plasma_P411,Sample,Plate_05,P411,F,BLACKorAFRICANAMERICAN,Non Hispanic,37,37
+D_09_BoA_Plasma_P412,Sample,Plate_05,P412,F,AMERICANINDIANorALASKANATIVE@White,Non Hispanic,62,62
+E_09_BoA_Plasma_P413,Sample,Plate_05,P413,M,White,Non Hispanic,29,29
+F_09_BoA_Plasma_P414,Sample,Plate_05,P414,F,BLACKorAFRICANAMERICAN,Non Hispanic,65,65
+G_09_BoA_Plasma_P415,Sample,Plate_05,P415,M,White,Non Hispanic,22,22
+H_09_BoA_Plasma_P416,Sample,Plate_05,P416,F,White,Non Hispanic,28,28
+A_10_BoA_Plasma_P417,Sample,Plate_05,P417,M,Asian,Unknown/Missing,60,60
+B_10_BoA_Plasma_P418,Sample,Plate_05,P418,F,Asian,Non Hispanic,41,41
+C_10_BoA_Plasma_P419,Sample,Plate_05,P419,F,White,Non Hispanic,78,78
+B_06_BoA_Plasma_P42,Sample,Plate_01,P42,F,White,Non_Hispanic,51,51
+D_10_BoA_Plasma_P420,Sample,Plate_05,P420,F,Asian,Non Hispanic,86,86
+E_10_BoA_Plasma_P421,Sample,Plate_05,P421,M,White,Non_Hispanic,>89,90
+F_10_BoA_Plasma_P422,Sample,Plate_05,P422,M,White,Non Hispanic,46,46
+G_10_BoA_Plasma_P423,Sample,Plate_05,P423,F,White,Non Hispanic,53,53
+H_10_BoA_Plasma_P424,Sample,Plate_05,P424,F,White,Non Hispanic,55,55
+A_11_BoA_Plasma_P425,Sample,Plate_05,P425,M,White,Non_Hispanic,66,66
+B_11_BoA_Plasma_P426,Sample,Plate_05,P426,M,White,Non_Hispanic,81,81
+C_11_BoA_Plasma_P427,Sample,Plate_05,P427,M,BLACKorAFRICANAMERICAN,Non Hispanic,56,56
+D_11_BoA_Plasma_P428,Sample,Plate_05,P428,F,White,DECLINED,23,23
+E_11_BoA_Plasma_P429,Sample,Plate_05,P429,F,White,Non_Hispanic,67,67
+C_06_BoA_Plasma_P43,Sample,Plate_01,P43,F,White,Non_Hispanic,89,89
+F_11_BoA_Plasma_P430,Sample,Plate_05,P430,F,White,Non_Hispanic,83,83
+A_01_BoA_Plasma_P431,Sample,Plate_06,P431,F,White,Non_Hispanic,60,60
+B_01_BoA_Plasma_P432,Sample,Plate_06,P432,M,White,Non_Hispanic,47,47
+C_01_BoA_Plasma_P433,Sample,Plate_06,P433,M,BLACKorAFRICANAMERICAN,Non Hispanic,28,28
+D_01_BoA_Plasma_P434,Sample,Plate_06,P434,F,BLACKorAFRICANAMERICAN,Non Hispanic,38,38
+E_01_BoA_Plasma_P435,Sample,Plate_06,P435,M,White,Non Hispanic,41,41
+F_01_BoA_Plasma_P436,Sample,Plate_06,P436,M,White,Non Hispanic,23,23
+G_01_BoA_Plasma_P437,Sample,Plate_06,P437,M,White,Non Hispanic,33,33
+H_01_BoA_Plasma_P438,Sample,Plate_06,P438,F,White,Non Hispanic,28,28
+A_02_BoA_Plasma_P439,Sample,Plate_06,P439,F,AMERICANINDIANorALASKANATIVE,Non Hispanic,57,57
+D_06_BoA_Plasma_P44,Sample,Plate_01,P44,F,White,Non_Hispanic,79,79
+B_02_BoA_Plasma_P440,Sample,Plate_06,P440,M,BLACKorAFRICANAMERICAN,Non Hispanic,67,67
+C_02_BoA_Plasma_P441,Sample,Plate_06,P441,M,White,Non Hispanic,>89,90
+D_02_BoA_Plasma_P442,Sample,Plate_06,P442,F,White,Non_Hispanic,>89,90
+E_02_BoA_Plasma_P443,Sample,Plate_06,P443,F,White,Non Hispanic,27,27
+F_02_BoA_Plasma_P444,Sample,Plate_06,P444,M,White,Non Hispanic,57,57
+G_02_BoA_Plasma_P445,Sample,Plate_06,P445,M,White,Non Hispanic,26,26
+H_02_BoA_Plasma_P446,Sample,Plate_06,P446,M,Asian,Non Hispanic,55,55
+A_03_BoA_Plasma_P447,Sample,Plate_06,P447,F,White,Non_Hispanic,46,46
+B_03_BoA_Plasma_P448,Sample,Plate_06,P448,M,BLACKorAFRICANAMERICAN,Non Hispanic,63,63
+C_03_BoA_Plasma_P449,Sample,Plate_06,P449,F,BLACKorAFRICANAMERICAN,Non Hispanic,87,87
+E_06_BoA_Plasma_P45,Sample,Plate_01,P45,M,White,Non_Hispanic,47,47
+D_03_BoA_Plasma_P450,Sample,Plate_06,P450,M,BLACKorAFRICANAMERICAN,Non Hispanic,>89,90
+E_03_BoA_Plasma_P451,Sample,Plate_06,P451,F,White,Non Hispanic,>89,90
+F_03_BoA_Plasma_P452,Sample,Plate_06,P452,M,Asian,Non Hispanic,65,65
+G_03_BoA_Plasma_P453,Sample,Plate_06,P453,M,White,Non_Hispanic,48,48
+H_03_BoA_Plasma_P454,Sample,Plate_06,P454,F,White,Non Hispanic,>89,90
+A_04_BoA_Plasma_P455,Sample,Plate_06,P455,M,White,Non Hispanic,>89,90
+B_04_BoA_Plasma_P456,Sample,Plate_06,P456,F,Asian,Non Hispanic,62,62
+C_04_BoA_Plasma_P457,Sample,Plate_06,P457,F,White,Non_Hispanic,>89,90
+D_04_BoA_Plasma_P458,Sample,Plate_06,P458,F,White,Non_Hispanic,>89,90
+E_04_BoA_Plasma_P459,Sample,Plate_06,P459,F,White,Non_Hispanic,>89,90
+F_06_BoA_Plasma_P46,Sample,Plate_01,P46,F,White,Non_Hispanic,80,80
+F_04_BoA_Plasma_P460,Sample,Plate_06,P460,M,White,Non Hispanic,>89,90
+G_04_BoA_Plasma_P461,Sample,Plate_06,P461,M,White_Hispanic,Hispanic,>89,90
+H_04_BoA_Plasma_P462,Sample,Plate_06,P462,M,White,Non_Hispanic,>89,90
+A_05_BoA_Plasma_P463,Sample,Plate_06,P463,M,BLACKorAFRICANAMERICAN,Non Hispanic,73,73
+B_05_BoA_Plasma_P464,Sample,Plate_06,P464,M,Asian,Non Hispanic,75,75
+C_05_BoA_Plasma_P465,Sample,Plate_06,P465,M,White,Non Hispanic,>89,90
+D_05_BoA_Plasma_P466,Sample,Plate_06,P466,M,White,Non Hispanic,>89,90
+E_05_BoA_Plasma_P467,Sample,Plate_06,P467,F,White,Non_Hispanic,54,54
+F_05_BoA_Plasma_P468,Sample,Plate_06,P468,M,White,Non_Hispanic,>89,90
+G_05_BoA_Plasma_P469,Sample,Plate_06,P469,F,BLACKorAFRICANAMERICAN,Non Hispanic,85,85
+G_06_BoA_Plasma_P47,Sample,Plate_01,P47,M,Black,Non_Hispanic,>89,90
+H_05_BoA_Plasma_P470,Sample,Plate_06,P470,F,BLACKorAFRICANAMERICAN,Non Hispanic,50,50
+A_06_BoA_Plasma_P471,Sample,Plate_06,P471,M,BLACKorAFRICANAMERICAN,Non Hispanic,31,31
+B_06_BoA_Plasma_P472,Sample,Plate_06,P472,F,BLACKorAFRICANAMERICAN,Non Hispanic,45,45
+C_06_BoA_Plasma_P473,Sample,Plate_06,P473,M,White_Hispanic,Hispanic,>89,90
+D_06_BoA_Plasma_P474,Sample,Plate_06,P474,M,White,Non_Hispanic,87,87
+E_06_BoA_Plasma_P475,Sample,Plate_06,P475,M,BLACKorAFRICANAMERICAN,Non Hispanic,78,78
+F_06_BoA_Plasma_P476,Sample,Plate_06,P476,M,White,Non Hispanic,58,58
+G_06_BoA_Plasma_P477,Sample,Plate_06,P477,F,White,Non_Hispanic,80,80
+H_06_BoA_Plasma_P478,Sample,Plate_06,P478,M,White,Non_Hispanic,56,56
+A_07_BoA_Plasma_P479,Sample,Plate_06,P479,M,White,Non_Hispanic,>89,90
+H_06_BoA_Plasma_P48,Sample,Plate_01,P48,M,White,Non_Hispanic,36,36
+B_07_BoA_Plasma_P480,Sample,Plate_06,P480,F,Black,Non_Hispanic,35,35
+C_07_BoA_Plasma_P481,Sample,Plate_06,P481,M,Asian,Non Hispanic,46,46
+D_07_BoA_Plasma_P482,Sample,Plate_06,P482,M,White,Non_Hispanic,87,87
+E_07_BoA_Plasma_P483,Sample,Plate_06,P483,F,Asian,Non Hispanic,82,82
+F_07_BoA_Plasma_P484,Sample,Plate_06,P484,M,White,Non_Hispanic,46,46
+G_07_BoA_Plasma_P485,Sample,Plate_06,P485,F,BLACKorAFRICANAMERICAN,Non Hispanic,68,68
+H_07_BoA_Plasma_P486,Sample,Plate_06,P486,F,White,Non Hispanic,66,66
+A_08_BoA_Plasma_P487,Sample,Plate_06,P487,F,White,Non_Hispanic,67,67
+B_08_BoA_Plasma_P488,Sample,Plate_06,P488,F,HISPANICorLATINO,HISPANIC,>89,90
+C_08_BoA_Plasma_P489,Sample,Plate_06,P489,F,BLACKorAFRICANAMERICAN,Non Hispanic,>89,90
+A_07_BoA_Plasma_P49,Sample,Plate_01,P49,M,White_Hispanic,Hispanic,68,68
+D_08_BoA_Plasma_P490,Sample,Plate_06,P490,F,White,Non Hispanic,>89,90
+E_08_BoA_Plasma_P491,Sample,Plate_06,P491,F,White,Non Hispanic,61,61
+F_08_BoA_Plasma_P492,Sample,Plate_06,P492,M,White,Non Hispanic,>89,90
+G_08_BoA_Plasma_P493,Sample,Plate_06,P493,M,White,Non Hispanic,36,36
+H_08_BoA_Plasma_P494,Sample,Plate_06,P494,M,White,Non Hispanic,47,47
+A_09_BoA_Plasma_P495,Sample,Plate_06,P495,F,White,Non_Hispanic,88,88
+B_09_BoA_Plasma_P496,Sample,Plate_06,P496,M,BLACKorAFRICANAMERICAN,Non Hispanic,60,60
+C_09_BoA_Plasma_P497,Sample,Plate_06,P497,F,BLACKorAFRICANAMERICAN,Non Hispanic,>89,90
+D_09_BoA_Plasma_P498,Sample,Plate_06,P498,F,White,Non Hispanic,47,47
+E_09_BoA_Plasma_P499,Sample,Plate_06,P499,F,Asian,Non Hispanic,81,81
+E_01_BoA_Plasma_P5,Sample,Plate_01,P5,M,White,Non_Hispanic,78,78
+B_07_BoA_Plasma_P50,Sample,Plate_01,P50,F,White,Non_Hispanic,>89,90
+F_09_BoA_Plasma_P500,Sample,Plate_06,P500,F,White,Non Hispanic,>89,90
+G_09_BoA_Plasma_P501,Sample,Plate_06,P501,M,White,Non_Hispanic,>89,90
+H_09_BoA_Plasma_P502,Sample,Plate_06,P502,F,White,Non Hispanic,76,76
+A_10_BoA_Plasma_P503,Sample,Plate_06,P503,F,White,Non Hispanic,71,71
+C_07_BoA_Plasma_P51,Sample,Plate_01,P51,F,White,Non_Hispanic,>89,90
+D_07_BoA_Plasma_P52,Sample,Plate_01,P52,F,Other,Non_Hispanic,85,85
+E_07_BoA_Plasma_P53,Sample,Plate_01,P53,F,Asian,Non_Hispanic,41,41
+F_07_BoA_Plasma_P54,Sample,Plate_01,P54,F,Asian,Non_Hispanic,89,89
+G_07_BoA_Plasma_P55,Sample,Plate_01,P55,M,White,Non_Hispanic,55,55
+H_07_BoA_Plasma_P56,Sample,Plate_01,P56,F,White,Non_Hispanic,86,86
+A_08_BoA_Plasma_P57,Sample,Plate_01,P57,F,Asian,Non_Hispanic,34,34
+B_08_BoA_Plasma_P58,Sample,Plate_01,P58,F,White,Non_Hispanic,48,48
+C_08_BoA_Plasma_P59,Sample,Plate_01,P59,F,Black,Non_Hispanic,63,63
+F_01_BoA_Plasma_P6,Sample,Plate_01,P6,F,White_Hispanic,Hispanic,44,44
+D_08_BoA_Plasma_P60,Sample,Plate_01,P60,F,White,Non_Hispanic,50,50
+E_08_BoA_Plasma_P61,Sample,Plate_01,P61,F,White,Non_Hispanic,76,76
+F_08_BoA_Plasma_P62,Sample,Plate_01,P62,M,White,Non_Hispanic,36,36
+G_08_BoA_Plasma_P63,Sample,Plate_01,P63,M,White,Non_Hispanic,61,61
+H_08_BoA_Plasma_P64,Sample,Plate_01,P64,F,White,Non_Hispanic,76,76
+A_09_BoA_Plasma_P65,Sample,Plate_01,P65,M,Black,Non_Hispanic,78,78
+B_09_BoA_Plasma_P66,Sample,Plate_01,P66,M,Other,Non_Hispanic,47,47
+C_09_BoA_Plasma_P67,Sample,Plate_01,P67,F,White,Non_Hispanic,67,67
+D_09_BoA_Plasma_P68,Sample,Plate_01,P68,M,White,Non_Hispanic,88,88
+E_09_BoA_Plasma_P69,Sample,Plate_01,P69,F,White,Non_Hispanic,52,52
+G_01_BoA_Plasma_P7,Sample,Plate_01,P7,M,Other,Non_Hispanic,89,89
+F_09_BoA_Plasma_P70,Sample,Plate_01,P70,F,White_Hispanic,Hispanic,82,82
+G_09_BoA_Plasma_P71,Sample,Plate_01,P71,F,White_Hispanic,Hispanic,65,65
+H_09_BoA_Plasma_P72,Sample,Plate_01,P72,F,White_Hispanic,Hispanic,40,40
+A_10_BoA_Plasma_P73,Sample,Plate_01,P73,F,White,Non_Hispanic,30,30
+B_10_BoA_Plasma_P74,Sample,Plate_01,P74,M,White,Non_Hispanic,43,43
+C_10_BoA_Plasma_P75,Sample,Plate_01,P75,F,White,Non_Hispanic,81,81
+D_10_BoA_Plasma_P76,Sample,Plate_01,P76,F,Asian,Non_Hispanic,43,43
+E_10_BoA_Plasma_P77,Sample,Plate_01,P77,F,White_Hispanic,Hispanic,74,74
+F_10_BoA_Plasma_P78,Sample,Plate_01,P78,F,White_Hispanic,Hispanic,59,59
+G_10_BoA_Plasma_P79,Sample,Plate_01,P79,M,White,Non_Hispanic,38,38
+H_01_BoA_Plasma_P8,Sample,Plate_01,P8,F,Other,Non_Hispanic,61,61
+H_10_BoA_Plasma_P80,Sample,Plate_01,P80,F,Black,Non_Hispanic,31,31
+A_11_BoA_Plasma_P81,Sample,Plate_01,P81,M,White,Non_Hispanic,62,62
+B_11_BoA_Plasma_P82,Sample,Plate_01,P82,M,Asian,Non_Hispanic,64,64
+C_11_BoA_Plasma_P83,Sample,Plate_01,P83,M,White,Non_Hispanic,30,30
+D_11_BoA_Plasma_P84,Sample,Plate_01,P84,M,White,Non_Hispanic,35,35
+E_11_BoA_Plasma_P85,Sample,Plate_01,P85,M,White,Non_Hispanic,53,53
+F_11_BoA_Plasma_P86,Sample,Plate_01,P86,F,White,Non_Hispanic,48,48
+A_01_BoA_Plasma_P87,Sample,Plate_02,P87,M,White,Non_Hispanic,51,51
+B_01_BoA_Plasma_P88,Sample,Plate_02,P88,M,White,Non_Hispanic,57,57
+C_01_BoA_Plasma_P89,Sample,Plate_02,P89,M,White,Non_Hispanic,21,21
+A_02_BoA_Plasma_P9,Sample,Plate_01,P9,M,White,Non_Hispanic,76,76
+D_01_BoA_Plasma_P90,Sample,Plate_02,P90,M,White,Non_Hispanic,54,54
+E_01_BoA_Plasma_P91,Sample,Plate_02,P91,F,White,Non_Hispanic,26,26
+F_01_BoA_Plasma_P92,Sample,Plate_02,P92,F,White,Non_Hispanic,24,24
+G_01_BoA_Plasma_P93,Sample,Plate_02,P93,M,White_Hispanic,Hispanic,36,36
+H_01_BoA_Plasma_P94,Sample,Plate_02,P94,M,White,Non_Hispanic,57,57
+A_02_BoA_Plasma_P95,Sample,Plate_02,P95,M,White,Non_Hispanic,38,38
+B_02_BoA_Plasma_P96,Sample,Plate_02,P96,F,White,Non_Hispanic,69,69
+C_02_BoA_Plasma_P97,Sample,Plate_02,P97,F,Black,Non_Hispanic,24,24
+D_02_BoA_Plasma_P98,Sample,Plate_02,P98,F,White,Non_Hispanic,73,73
+E_02_BoA_Plasma_P99,Sample,Plate_02,P99,M,White,Non_Hispanic,78,78

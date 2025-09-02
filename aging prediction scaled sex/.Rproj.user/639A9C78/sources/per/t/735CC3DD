@@ -1,0 +1,27 @@
+{
+    "id": "735CC3DD",
+    "path": "~/Desktop/aging prediction/aging prediction scaled sex/scripts/01.03.lightbgm.methuselah.iter.R",
+    "project_path": "scripts/01.03.lightbgm.methuselah.iter.R",
+    "type": "r_source",
+    "hash": "3711203285",
+    "contents": "",
+    "dirty": false,
+    "created": 1756407108930.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "299,14",
+        "scrollLine": "290",
+        "marks": "<:0,0\n>:0,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756536959,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756536959363,
+    "read_only": false,
+    "read_only_alternatives": []
+}

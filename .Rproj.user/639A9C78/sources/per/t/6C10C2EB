@@ -1,0 +1,28 @@
+{
+    "id": "6C10C2EB",
+    "path": "~/Desktop/aging prediction/scripts/02.05.plot.coeff.R",
+    "project_path": "scripts/02.05.plot.coeff.R",
+    "type": "r_source",
+    "hash": "2635025463",
+    "contents": "",
+    "dirty": false,
+    "created": 1755885600599.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "tempName": "Untitled3",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "79,0",
+        "scrollLine": "0",
+        "marks": "<:29,0\n>:30,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756007312,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756007312747,
+    "read_only": false,
+    "read_only_alternatives": []
+}

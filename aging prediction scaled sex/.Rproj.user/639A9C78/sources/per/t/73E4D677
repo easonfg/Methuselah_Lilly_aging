@@ -1,0 +1,27 @@
+{
+    "id": "73E4D677",
+    "path": "~/Desktop/aging prediction/aging prediction scaled sex/scripts/04.01.lmu.predict.whole.training.R",
+    "project_path": "scripts/04.01.lmu.predict.whole.training.R",
+    "type": "r_source",
+    "hash": "28167974",
+    "contents": "",
+    "dirty": false,
+    "created": 1756430417047.0,
+    "source_on_save": false,
+    "relative_order": 14,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "407,0",
+        "scrollLine": "393",
+        "marks": "<:407,0\n>:420,-1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756712473,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756712473755,
+    "read_only": false,
+    "read_only_alternatives": []
+}

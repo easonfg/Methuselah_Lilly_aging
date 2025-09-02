@@ -1,0 +1,28 @@
+{
+    "id": "05E3EECA",
+    "path": "~/Desktop/aging prediction/scripts/01.04.model.performance.plots.R",
+    "project_path": "scripts/01.04.model.performance.plots.R",
+    "type": "r_source",
+    "hash": "865758457",
+    "contents": "",
+    "dirty": false,
+    "created": 1755903283830.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "tempName": "Untitled3",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "52,0",
+        "scrollLine": "0",
+        "marks": "<:0,0\n>:52,-1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1755906443,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1755906443181,
+    "read_only": false,
+    "read_only_alternatives": []
+}

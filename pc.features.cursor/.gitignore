@@ -1,0 +1,45 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Office files
+*.pptx
+*.docx
+*.xlsx
+*.ppt
+*.doc
+*.xls
+
+# Large data files (if you don't want to track them)
+*.csv
+*.RData
+*.rds
+
+# Output files
+*.pdf
+*.png
+*.html
+
+# Log files
+*.log
+
+# Backup files
+*~
+*.bak
+*.tmp

@@ -1,0 +1,27 @@
+{
+    "id": "22A0748C",
+    "path": "~/Desktop/aging prediction/aging prediction scaled/scripts/01.03.lightbgm.methuselah.iter.2.test.R",
+    "project_path": "scripts/01.03.lightbgm.methuselah.iter.2.test.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1756407105720.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "149,2",
+        "scrollLine": "0",
+        "marks": "<:58,26\n>:64,6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756415284,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756415284580,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "B7B77EE6",
+    "path": "~/Desktop/aging prediction/scripts/05.00.methuselah.alpha.original.predict.R",
+    "project_path": "scripts/05.00.methuselah.alpha.original.predict.R",
+    "type": "r_source",
+    "hash": "3031115001",
+    "contents": "",
+    "dirty": false,
+    "created": 1756144669928.0,
+    "source_on_save": false,
+    "relative_order": 19,
+    "properties": {
+        "tempName": "Untitled3",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,87",
+        "scrollLine": "0",
+        "marks": "<:0,0\n>:0,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756271511,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756271511488,
+    "read_only": false,
+    "read_only_alternatives": []
+}

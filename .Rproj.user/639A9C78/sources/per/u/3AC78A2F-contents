@@ -1,0 +1,218 @@
+all.svm.iter.coeffs = mclapply(list.files('figures/model.iter.12/SVM/both/', pattern = 'model.coeff', full.names = T), 
+       function(coeff.i){
+         
+  mclapply(list.files(coeff.i, full.names = T),
+           function(iter.i){
+    iter.csv = read_csv(iter.i)
+    iter.csv %>% mutate(model.n = basename(coeff.i), iter.n = basename(iter.i))
+       }) %>% data.table::rbindlist()
+})
+
+all.svm.iter.coeffs = all.svm.iter.coeffs %>% data.table::rbindlist()
+all.svm.iter.coeffs
+all.svm.iter.coeffs = all.svm.iter.coeffs %>% group_by(model.n, iter.n) %>% 
+  arrange(desc(Importance), .by_group = TRUE) %>% # Sort descending within group
+  mutate(sequential_rank = row_number()) %>% ungroup()
+
+# all.svm.iter.coeffs %>% filter(Variable == 'GFAP') %>% view
+
+svm.coeff.rank = all.svm.iter.coeffs %>% group_by(Variable) %>% 
+  summarise(rank = mean(sequential_rank), sd.rank = sd(sequential_rank), freq = n()) %>% 
+  arrange(rank)
+
+all.svm.iter.coeffs$Variable %>% table() %>% sort()
+
+svm.coeff.rank = all.svm.iter.coeffs %>% ungroup() %>% group_by( model.n, Variable) %>% 
+  summarise(rank = mean(sequential_rank), sd.rank = sd(sequential_rank), freq = n()) 
+svm.coeff.rank %>% filter(Variable == 'AGER')
+all.svm.iter.coeffs %>% filter(Variable == 'AGER')
+
+svm.coeff.rank %>% arrange(rank) %>% 
+  mutate(Variable = fct_inorder(Variable)) %>% 
+  .[1:50, ] %>% 
+  ggplot(., aes(Variable, rank, fill = model.n)) +
+  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
+  geom_errorbar(aes(ymin = rank - sd.rank, ymax = rank + sd.rank), 
+                position = position_dodge(0.9),  # Must match geom_col position!
+                width = 0.2,            # Width of error bar ends
+                size = 0.8,             # Thickness of error bars
+                color = "black") +
+  labs(title = "Bar Plot with Error Bars (±SD)",
+       x = "Group",
+       y = "Mean Value") +
+  theme_minimal() +
+  theme(legend.position = "none")  +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+#################################################################################
+
+region.i = 'bottom'
+region.i = 'random'
+region.i = 'top'
+all.lgbm.iter.coeffs = mclapply(list.files(paste0('figures/model.iter.', region.i, '.rmse.12/lightGBM/both/'),
+                                           pattern = 'model.coeff', full.names = T), 
+                               function(coeff.i){
+                                 
+                                 mclapply(list.files(coeff.i, full.names = T),
+                                          function(iter.i){
+                                            iter.csv = read_csv(iter.i)
+                                            iter.csv %>% mutate(model.n = basename(coeff.i), iter.n = basename(iter.i))
+                                          }) %>% data.table::rbindlist()
+                               })
+
+all.lgbm.iter.coeffs[[1]] %>% filter(iter.n == 'iter.1.csv')
+all.lgbm.iter.coeffs = all.lgbm.iter.coeffs %>% data.table::rbindlist()
+all.lgbm.iter.coeffs = all.lgbm.iter.coeffs %>% group_by(model.n, iter.n) %>% 
+  arrange(desc(Gain), .by_group = TRUE) %>% # Sort descending within group
+  mutate(sequential_rank = row_number()) %>% ungroup()
+
+# all.lgbm.iter.coeffs %>% filter(Feature == 'GFAP') %>% view
+# all.lgbm.iter.coeffs %>% filter(Feature == 'CCL11') %>% view
+
+all.lgbm.iter.coeffs$Feature %>% table() %>% sort()
+all.lgbm.iter.coeffs
+
+lgbm.coeff.rank = all.lgbm.iter.coeffs %>% ungroup() %>% group_by( model.n, Feature) %>% 
+  summarise(rank = mean(sequential_rank), sd.rank = sd(sequential_rank), freq = n()) 
+lgbm.coeff.rank %>% filter(Feature == 'AGER')
+all.lgbm.iter.coeffs %>% filter(Feature == 'AGER')
+
+lgbm.coeff.rank %>% arrange(rank) %>% 
+  mutate(Feature = fct_inorder(Feature)) %>% 
+  .[1:50, ] %>% 
+  ggplot(., aes(Feature, rank, fill = model.n)) +
+  # geom_col(width = 0.7, alpha = 0.8) +  # Bar plot
+  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
+  geom_errorbar(aes(ymin = rank - sd.rank, ymax = rank + sd.rank), 
+                position = position_dodge(0.9),  # Must match geom_col position!
+                width = 0.2,            # Width of error bar ends
+                size = 0.8,             # Thickness of error bars
+                color = "black") +
+  labs(title = "Bar Plot with Error Bars (±SD)",
+       x = "Group",
+       y = "Mean Value") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+################################################################################
+
+
+#################################################################################
+
+all.elastic.net.iter.coeffs = mclapply(list.files('figures/model.iter.12/elastic.net/both/', pattern = 'model.coeff', full.names = T), 
+                                function(coeff.i){
+                                  
+                                  mclapply(list.files(coeff.i, full.names = T),
+                                           function(iter.i){
+                                             iter.csv = read_csv(iter.i)
+                                             iter.csv %>% mutate(model.n = basename(coeff.i), iter.n = basename(iter.i))
+                                           }) %>% data.table::rbindlist()
+                                })
+
+# all.elastic.net.iter.coeffs[[1]] %>% filter(iter.n == 'iter.1.csv')
+all.elastic.net.iter.coeffs = all.elastic.net.iter.coeffs %>% data.table::rbindlist()
+all.elastic.net.iter.coeffs = all.elastic.net.iter.coeffs %>% filter(!str_detect(name, 'Intercept'))
+all.elastic.net.iter.coeffs = all.elastic.net.iter.coeffs %>% group_by(model.n, iter.n) %>% 
+  arrange(desc(abs(coefficient)), .by_group = TRUE) %>% # Sort descending within group
+  mutate(sequential_rank = row_number()) %>% ungroup()
+
+all.elastic.net.iter.coeffs
+
+all.elastic.net.iter.coeffs %>% filter(name == 'GFAP') %>% view
+all.elastic.net.iter.coeffs %>% filter(name == 'CCL11') %>% view
+
+all.elastic.net.iter.coeffs$name %>% table() %>% sort()
+
+elastic.net.coeff.rank = all.elastic.net.iter.coeffs %>% group_by(name) %>% 
+  summarise(rank = mean(sequential_rank), sd.rank = sd(sequential_rank), freq = n()) %>% 
+  arrange(rank)
+elastic.net.coeff.rank
+elastic.net.coeff.rank %>% arrange(sd.rank)
+elastic.net.coeff.rank %>% arrange(rank) %>% 
+  mutate(name = fct_inorder(name)) %>% 
+  .[1:50, ] %>% 
+  ggplot(., aes(name, rank)) +
+  geom_col(width = 0.7, alpha = 0.8) +  # Bar plot
+  geom_errorbar(aes(ymin = rank - sd.rank, ymax = rank + sd.rank), 
+                width = 0.2,            # Width of error bar ends
+                size = 0.8,             # Thickness of error bars
+                color = "black") +
+  labs(title = "Bar Plot with Error Bars (±SD)",
+       x = "Group",
+       y = "Mean Value") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+################################################################################
+
+elastic.net.coeff.rank
+
+both.ranks = full_join(svm.coeff.rank, lgbm.coeff.rank, by = c('Variable' = 'Feature'), suffix = c('.svm', '.lgbm'))
+both.ranks %>% arrange(rank.lgbm)
+both.ranks %>% arrange(rank.svm)
+          
+both.ranks %>% view
+both.ranks %>% 
+  ggplot(aes(rank.svm, rank.lgbm)) +
+  geom_point()
+                       
+both.ranks = full_join(elastic.net.coeff.rank, lgbm.coeff.rank, by = c('name' = 'Feature'), suffix = c('.elastic.net', '.lgbm'))
+both.ranks %>% arrange(rank.lgbm)
+both.ranks %>% arrange(rank.elastic.net)
+
+# both.ranks %>% view
+both.ranks %>% 
+  ggplot(aes(rank.elastic.net, rank.lgbm)) +
+  geom_point()
+
+both.ranks = full_join(elastic.net.coeff.rank, svm.coeff.rank, by = c('name' = 'Variable'), suffix = c('.elastic.net', '.svm'))
+both.ranks %>% arrange(rank.svm)
+both.ranks %>% arrange(rank.elastic.net)
+
+# both.ranks %>% view
+both.ranks %>% 
+  ggplot(aes(rank.elastic.net, rank.svm)) +
+  geom_point()
+
+
+# all.ranks = elastic.net.coeff.rank %>% 
+#   full_join(., svm.coeff.rank, by = c('name' = 'Variable'), suffix = c('.elastic.net', '.svm')) %>% 
+#   full_join(., lgbm.coeff.rank %>%   rename_with(~ paste0(., ".lgbm"), everything()),
+#             by = c("name" = "Feature.lgbm"))
+# all.ranks %>% colnames()
+
+svm.coeff.rank
+elastic.net.coeff.rank
+lgbm.coeff.rank 
+all.ranks = rbind(
+  svm.coeff.rank %>% rename(name = Variable) %>% mutate(model.type = 'svm'),
+  elastic.net.coeff.rank %>% mutate(model.type = 'elastic.net'),
+  lgbm.coeff.rank %>% rename(name = Feature) %>% mutate(model.type = 'lgbm'))
+
+all.ranks
+all.ranks %>% group_by(name) %>% summarise(sum.rank = sum(rank)) %>% arrange(sum.rank)
+all.ranks %>% group_by(name) %>% summarise(sum.rank = sum(rank)) %>% arrange(desc(sum.rank))
+
+all.ranks %>% 
+  mutate(model.type = factor(model.type, levels = c('svm', 'lgbm', 'elastic.net'))) %>% 
+  group_by(model.type) %>% arrange(rank) %>% 
+  mutate(name = fct_inorder(name)) %>% 
+  # .[1:50, ] %>% 
+  slice_head(n = 30) %>% # Will return all rows if group has <50 rows
+  ggplot(., aes(name, rank, fill = model.type)) +
+  geom_col(position = position_dodge(width = 0.8), width = 0.7) +
+                geom_errorbar(aes(ymin = rank - sd.rank, ymax = rank + sd.rank), 
+                              position = position_dodge(0.9),  # Must match geom_col position!
+                              width = 0.2,                    # Width of error bar ends
+                              size = 0.8,                     # Thickness of error bars
+                              color = "black") +
+  scale_fill_manual(values = c("svm" = "blue", 
+                               "elastic.net" = "red", 
+                               "lgbm" = "green")) +
+  labs(title = "Bar Plot with Error Bars (±SD)",
+       x = "Group",
+       y = "Mean Value") +
+  theme_minimal() +
+  # theme(legend.position = "none") +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))

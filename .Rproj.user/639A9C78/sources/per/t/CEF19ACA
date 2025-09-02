@@ -1,0 +1,28 @@
+{
+    "id": "CEF19ACA",
+    "path": "~/Desktop/aging prediction/scripts/01.02.svm.methuselah.iter.R",
+    "project_path": "scripts/01.02.svm.methuselah.iter.R",
+    "type": "r_source",
+    "hash": "4217652841",
+    "contents": "",
+    "dirty": true,
+    "created": 1755729762216.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "357,8",
+        "scrollLine": "339",
+        "marks": "<:0,0\n>:610,-1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1755751928,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756317993387,
+    "read_only": false,
+    "read_only_alternatives": []
+}

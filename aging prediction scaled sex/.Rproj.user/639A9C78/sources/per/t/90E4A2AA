@@ -1,0 +1,27 @@
+{
+    "id": "90E4A2AA",
+    "path": "~/Desktop/aging prediction/aging prediction scaled sex/scripts/01.02.svm.methuselah.iter.R",
+    "project_path": "scripts/01.02.svm.methuselah.iter.R",
+    "type": "r_source",
+    "hash": "1649209440",
+    "contents": "",
+    "dirty": false,
+    "created": 1756407101144.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "101,62",
+        "scrollLine": "79",
+        "marks": "<:0,0\n>:0,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756540824,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756540824407,
+    "read_only": false,
+    "read_only_alternatives": []
+}

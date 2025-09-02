@@ -1,0 +1,27 @@
+{
+    "id": "E6CE7309",
+    "path": "~/Desktop/aging prediction/aging prediction scaled sex/scripts/01.01.elastic.net.methuselah.iter.R",
+    "project_path": "scripts/01.01.elastic.net.methuselah.iter.R",
+    "type": "r_source",
+    "hash": "963093571",
+    "contents": "",
+    "dirty": true,
+    "created": 1756407100285.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "82,0",
+        "scrollLine": "75",
+        "marks": "<:0,0\n>:0,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756540804,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756541707102,
+    "read_only": false,
+    "read_only_alternatives": []
+}

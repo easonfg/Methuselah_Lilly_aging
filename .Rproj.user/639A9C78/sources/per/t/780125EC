@@ -1,0 +1,28 @@
+{
+    "id": "780125EC",
+    "path": "~/Desktop/aging prediction/scripts/05.01.lilly.predict.R",
+    "project_path": "scripts/05.01.lilly.predict.R",
+    "type": "r_source",
+    "hash": "3156593654",
+    "contents": "",
+    "dirty": false,
+    "created": 1756149321993.0,
+    "source_on_save": false,
+    "relative_order": 20,
+    "properties": {
+        "tempName": "Untitled4",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "424,56",
+        "scrollLine": "398",
+        "marks": "<:422,78\n>:422,78"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756170512,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756170512620,
+    "read_only": false,
+    "read_only_alternatives": []
+}

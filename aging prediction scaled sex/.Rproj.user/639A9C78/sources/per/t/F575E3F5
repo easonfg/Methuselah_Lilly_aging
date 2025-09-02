@@ -1,0 +1,27 @@
+{
+    "id": "F575E3F5",
+    "path": "~/Desktop/aging prediction/aging prediction scaled sex/scripts/01.04.model.performance.plots.R",
+    "project_path": "scripts/01.04.model.performance.plots.R",
+    "type": "r_source",
+    "hash": "3896835023",
+    "contents": "",
+    "dirty": false,
+    "created": 1756415544757.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,34",
+        "scrollLine": "20",
+        "marks": "<:0,0\n>:0,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756708759,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756708759279,
+    "read_only": false,
+    "read_only_alternatives": []
+}

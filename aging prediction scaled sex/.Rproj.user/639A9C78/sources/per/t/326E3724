@@ -1,0 +1,27 @@
+{
+    "id": "326E3724",
+    "path": "~/Desktop/aging prediction/aging prediction scaled sex/scripts/03.03.basel.predict.whole.training.R",
+    "project_path": "scripts/03.03.basel.predict.whole.training.R",
+    "type": "r_source",
+    "hash": "2494037563",
+    "contents": "",
+    "dirty": false,
+    "created": 1756421340789.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "222,62",
+        "scrollLine": "207",
+        "marks": "<:222,57\n>:222,57"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756716090,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756716090783,
+    "read_only": false,
+    "read_only_alternatives": []
+}

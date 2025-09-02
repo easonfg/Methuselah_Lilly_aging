@@ -1,0 +1,56 @@
+# Ignore all PowerPoint files
+*.pptx
+*.ppt
+
+# Ignore all Office files
+*.docx
+*.doc
+*.xlsx
+*.xls
+
+# Ignore R-specific files
+*.R
+*.RData
+*.Rds
+*.Rhistory
+
+# Ignore macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore temporary files
+*~
+*.tmp
+*.temp
+
+# Ignore large data files
+*.csv
+*.tsv
+*.txt
+*.fasta
+*.fastq
+
+# Ignore output and log files
+*.log
+*.out
+*.err
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore R package files
+*.tar.gz
+*.zip
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
